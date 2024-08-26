@@ -6,6 +6,8 @@ Graduation (June 2024) from the Free University of Bozen-Bolzano (Unibz), Italy 
 
 Supervisors: Giancarlo Guizzardi, Enrico Franconi, Tiago Prince Sales.
 
+Doctoral thesis examination committee: Manfred A. Jeusfeld, Raimundas Matulevičius.
+
 - [Complete PhD thesis in PDF](https://github.com/italojsoliveira/security-ontology-phd-thesis-unibz/blob/main/Ph_D__Thesis___An_Ontological_Approach_to_Security_Modeling_pdfa.pdf).
 - [PhD defense presentation in PDF](https://github.com/italojsoliveira/security-ontology-phd-thesis-unibz/blob/main/My%20PhD%20thesis%20presentation.pdf).
 - [LaTeX source files](https://github.com/italojsoliveira/security-ontology-phd-thesis-unibz/blob/main/Ph.D.%20Thesis%20-%20An%20Ontological%20Approach%20to%20Security%20Modeling.zip).
