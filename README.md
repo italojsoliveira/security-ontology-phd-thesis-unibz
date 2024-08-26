@@ -1,6 +1,10 @@
 # An Ontological Approach to Security Modeling
 
+_Ítalo José da Silva Oliveira_
+
 Graduation (June 2024) from the Free University of Bozen-Bolzano (Unibz), Italy 🇮🇹.
+
+Supervisors: Giancarlo Guizzardi, Enrico Franconi, Tiago Prince Sales.
 
 - [Complete PhD thesis in PDF](https://github.com/italojsoliveira/security-ontology-phd-thesis-unibz/blob/main/Ph_D__Thesis___An_Ontological_Approach_to_Security_Modeling_pdfa.pdf).
 - [PhD defense presentation in PDF](https://github.com/italojsoliveira/security-ontology-phd-thesis-unibz/blob/main/My%20PhD%20thesis%20presentation.pdf).
