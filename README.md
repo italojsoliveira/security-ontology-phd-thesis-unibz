@@ -2,7 +2,7 @@
 
 _Ítalo José da Silva Oliveira_
 
-Graduation (June 2024) from the Free University of Bozen-Bolzano (Unibz), Italy 🇮🇹.
+Graduation (June 2024) in Computer Science from the Free University of Bozen-Bolzano (Unibz), Italy 🇮🇹.
 
 Supervisors: Giancarlo Guizzardi, Enrico Franconi, Tiago Prince Sales.
 
